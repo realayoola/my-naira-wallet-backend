@@ -1,0 +1,24 @@
+{
+  "name": "my-naira-wallet-backend",
+  "version": "1.0.0",
+  "description": "A fintech app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realayoola/my-naira-wallet-backend.git"
+  },
+  "keywords": [
+    "Naira",
+    "Wallet",
+    "Fintech"
+  ],
+  "author": "Gbadebori Ayoola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realayoola/my-naira-wallet-backend/issues"
+  },
+  "homepage": "https://github.com/realayoola/my-naira-wallet-backend#readme"
+}
